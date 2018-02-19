@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Rickard</string>
+		<string>Stark</string>
+		<string>Rickard Stark was Lord of Winterfell, Warden of the North, and head of House Stark during the reign of Aerys II Targaryen. He was the only child of Lord Edwyle Stark and Lady Marna Locke.</string>
+		<array>
+			<string>Parent</string>
+			<string>Eddard</string>
+			<string>Parent</string>
+			<string>Brandon</string>
+			<string>Parent</string>
+			<string>Benjen</string>
+			<string>Parent</string>
+			<string>Lyanna</string>
+		</array>
+	</array>
+	<array>
+		<string>Eddard</string>
+		<string>Stark</string>
+		<string>also known as &quot;Ned&quot;, middle son of Lord Rickard and Lady Lyarra Stark. Eddard rules as Lord of Winterfell and Warden of the North until his execution in King&apos;s Landing, several months after taking office as Hand of the King</string>
+		<array>
+			<string>Child</string>
+			<string>Rickard</string>
+			<string>Spouse</string>
+			<string>Catelyn</string>
+			<string>Parent</string>
+			<string>Robb</string>
+			<string>Parent</string>
+			<string>Sansa</string>
+			<string>Parent</string>
+			<string>Arya</string>
+			<string>Parent</string>
+			<string>Brandon</string>
+		</array>
+	</array>
+	<array>
+		<string>Catelyn</string>
+		<string>Tully</string>
+		<string> Lord Eddard&apos;s wife. She is the mother of Robb, Sansa, Arya, Bran, and Rickon. She is killed during the Red Wedding, but is later resurrected by Beric Dondarrion. Now leading the brotherhood without banners under the name &quot;Lady Stoneheart&quot;.</string>
+		<array>
+			<string>Spouse</string>
+			<string>Eddard</string>
+			<string>Parent</string>
+			<string>Robb</string>
+			<string>Parent</string>
+			<string>Sansa</string>
+			<string>Parent</string>
+			<string>Arya</string>
+			<string>Parent</string>
+			<string>Brandon</string>
+		</array>
+	</array>
+	<array>
+		<string>Robb</string>
+		<string>Stark</string>
+		<string>Lord Eddard&apos;s eldest trueborn son and heir, also known as &quot;the Young Wolf&quot;. He takes his father&apos;s position as Lord Stark and is later crowned King in the North and of the Trident by his bannermen, prior to his death in the Red Wedding. His direwolf is named Grey Wind and is killed along with him at the Twins.</string>
+		<array>
+			<string>Child</string>
+			<string>Eddard</string>
+			<string>Child</string>
+			<string>Catelyn</string>
+		</array>
+	</array>
+	<array>
+		<string>Sansa</string>
+		<string>Stark</string>
+		<string>Eddard and Catelyn&apos;s elder daughter. Her direwolf is named Lady and is killed under Queen Cersei&apos;s orders in retribution for Arya&apos;s direwolf savaging her son Joffrey. She is currently hiding in the Vale of Arryn as Alayne Stone.</string>
+		<array>
+			<string>Child</string>
+			<string>Eddard</string>
+			<string>Child</string>
+			<string>Catelyn</string>
+		</array>
+	</array>
+	<array>
+		<string>Arya</string>
+		<string>Stark</string>
+		<string>Eddard and Catelyn&apos;s younger daughter. She is publicly known to have married Ramsay Bolton, but Ramsay has instead married Jeyne Poole, who was forced to pose as the Stark girl. Arya is instead in Braavos training with the Faceless Men. Her direwolf, Nymeria, leads a wolfpack roaming the riverlands.</string>
+		<array>
+			<string>Child</string>
+			<string>Eddard</string>
+			<string>Child</string>
+			<string>Catelyn</string>
+		</array>
+	</array>
+	<array>
+		<string>Brandon</string>
+		<string>Stark</string>
+		<string>mostly known as &quot;Bran&quot;, Eddard and Catelyn&apos;s second son. Bran becomes crippled and learns how to become a warg. he is believed to have been killed by Theon Greyjoy, but is actually beyond the Wall at the cave of the three-eyed crow. His direwolf is named Summer.</string>
+		<array>
+			<string>Child</string>
+			<string>Eddard</string>
+			<string>Child</string>
+			<string>Catelyn</string>
+		</array>
+	</array>
+	<array>
+		<string>Rickon</string>
+		<string>Stark</string>
+		<string>Eddard and Catelyn&apos;s youngest child, only three years old when the series begins. He is also believed dead at the hands of Theon, though actually Rickon is in Skagos with Osha. His direwolf is Shaggydog.</string>
+		<array>
+			<string>Child</string>
+			<string>Eddard</string>
+			<string>Child</string>
+			<string>Catelyn</string>
+		</array>
+	</array>
+	<array>
+		<string>Jon</string>
+		<string>Snow</string>
+		<string>Supposedly Eddard&apos;s bastard son by an unspecified mother. Jon was raised at Winterfell alongside his Stark half-siblings. Having joined the Night&apos;s Watch, he has risen to the rank of Lord Commander. His direwolf is Ghost. Ambushed and stabbed by his own men.</string>
+		<array>
+			<string>Child</string>
+			<string>Eddard</string>
+			<string>Child</string>
+			<string>Lyanna</string>
+		</array>
+	</array>
+	<array>
+		<string>Benjen</string>
+		<string>Stark</string>
+		<string>he youngest son of Lord Rickard and Lady Lyarra, the last surviving sibling of Ned. He is First Ranger of the Night&apos;s Watch and brings Jon Snow to the Wall when he wants to join the order. Benjen is missing in the lands beyond the Wall.</string>
+		<array>
+			<string>Child</string>
+			<string>Rickard</string>
+		</array>
+	</array>
+	<array>
+		<string>Lyanna</string>
+		<string>Stark</string>
+		<string>the only daughter of Lord Rickard Stark and his wife, Lady Lyarra Stark. She had two older brothers, Brandon and Eddard, and one younger brother, Benjen. Her abduction by Prince Rhaegar Targaryen was the event that ultimately triggered Robert&apos;s Rebellion and led to the downfall of the Targaryen dynasty.</string>
+		<array>
+			<string>Child</string>
+			<string>Rickard</string>
+			<string>Parent</string>
+			<string>Jon</string>
+		</array>
+	</array>
+</array>
+</plist>
